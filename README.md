@@ -15,8 +15,8 @@ I'm keen on learning every day and working towards AI in every aspect to solve a
 <details><summary>Read More</summary>
  <p>
    
-- 🔭 I’m currently working on Data Analytics Program by Google
-- 🌱 I’m currently learning Data Analytics in depth
+- 🔭 I’m currently applying to jobs in Data Science, Machine Learning and Data Analytics. If you are looking for a hardworking team member, look no further!
+- 🌱 I’m currently learning Data Analytics Program by Google
 - 📫 How to reach me: [Gmail](megha.rao27@gmail.com) , [LinkedIn](https://www.linkedin.com/in/meghasrao/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I own a travel youtube channel: [click here](https://www.youtube.com/channel/UCJ2vcbsSZaEp5OSJZd8g09Q)
