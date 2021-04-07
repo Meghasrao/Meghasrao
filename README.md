@@ -20,5 +20,5 @@ I'm keen towards learning everyday and working towards AI in every aspect to sol
 - 📫 How to reach me: [Gmail](megha.rao27@gmail.com) , [LinkedIn](https://www.linkedin.com/in/meghasrao/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I own a travel youtube channel: [click here](https://www.youtube.com/channel/UCJ2vcbsSZaEp5OSJZd8g09Q)
-- 
+
 </p>
